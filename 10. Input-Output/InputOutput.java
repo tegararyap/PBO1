@@ -9,7 +9,7 @@ public class InputOutput {
         nama = scanner.nextLine();
         System.out.print("Input nim: ");
         nim = scanner.next();
-        scanner.nextLine();  // Membuang karakter newline yang tersisa
+        scanner.nextLine();  
         System.out.print("Input alamat: ");
         alamat = scanner.nextLine();
 
